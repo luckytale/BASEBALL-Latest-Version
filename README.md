@@ -1,3 +1,10 @@
+# 最初に
+Auth0のセキュリティの関係上、URLを変更しました。
+
+変更後：https://d1apesv75o7p9c.cloudfront.net
+
+変更前：http://react-baseball.s3-website-ap-northeast-1.amazonaws.com (何も表示されません。)
+
 # BASEBALL
 
 BASEBALLは野球のデータ分析アプリです。

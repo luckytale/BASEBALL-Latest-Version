@@ -5,10 +5,6 @@ Auth0のセキュリティの関係上、URLを変更しました。
 
 変更前：http://react-baseball.s3-website-ap-northeast-1.amazonaws.com (何も表示されません。)
 
-# BASEBALL
-
-BASEBALLは野球のデータ分析アプリです。大学の硬式野球部で抱えていた、分析に関する操作性、所要時間、見にくさの課題を解決し、正確かつ簡単に対戦相手の選手を分析できるようになりました。
-
 ## URL
 
 https://d1apesv75o7p9c.cloudfront.net
